@@ -1,0 +1,6 @@
+C:\Users\genii\OneDrive\Рабочий стол\graphics_course\03-affine-transformations\AffineTransformations\bin\Release\AffineTransformations.exe.config
+C:\Users\genii\OneDrive\Рабочий стол\graphics_course\03-affine-transformations\AffineTransformations\bin\Release\AffineTransformations.exe
+C:\Users\genii\OneDrive\Рабочий стол\graphics_course\03-affine-transformations\AffineTransformations\bin\Release\AffineTransformations.pdb
+C:\Users\genii\OneDrive\Рабочий стол\graphics_course\03-affine-transformations\AffineTransformations\obj\Release\AffineTransformations.csprojAssemblyReference.cache
+C:\Users\genii\OneDrive\Рабочий стол\graphics_course\03-affine-transformations\AffineTransformations\obj\Release\AffineTransformations.exe
+C:\Users\genii\OneDrive\Рабочий стол\graphics_course\03-affine-transformations\AffineTransformations\obj\Release\AffineTransformations.pdb
